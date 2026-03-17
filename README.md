@@ -97,7 +97,7 @@ Microservices Architecture
 Enterprise Payroll System Design
 Azure Cloud Deployment
 High-Performance Bulk Processing
-Role-Based & Data-Level Authorization
+Role-Based & Menu-Level Authorization
 Clean Architecture
 Technical Leadership
 Production Issue Resolution
