@@ -102,6 +102,7 @@ Clean Architecture
 Technical Leadership
 Production Issue Resolution
 ```
+## 💻 Tech Stack:
 <p> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> </p>
 
 <p> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Entity%20Framework%20Core-6DB33F?style=flat-square&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Web%20API-02569B?style=flat-square&logo=webcomponents.org&logoColor=white" /> </p>
