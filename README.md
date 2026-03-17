@@ -123,15 +123,18 @@ Production Issue Resolution
 - I optimize for **performance + maintainability**
 - I build systems that survive **production pressure**
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+.NET+Backend+Engineer;Microservices+Architect;Azure+Cloud+Engineer;Payroll+%2F+HR+Domain+Expert" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PriyanshuClone&theme=algolia&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 <p align="center">
-  <img src="https://github.com/PriyanshuClone/PriyanshuClone/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PriyanshuClone/PriyanshuClone/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ## 🏗️ System Design Thinking
 
