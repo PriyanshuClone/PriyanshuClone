@@ -115,3 +115,59 @@ Production Issue Resolution
 
 <p> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> </p>
 
+## 🧠 Engineering Mindset
+
+- I don't just write APIs — I design systems
+- I think in terms of **scalability, consistency, and fault tolerance**
+- I prefer **event-driven architecture over tight coupling**
+- I optimize for **performance + maintainability**
+- I build systems that survive **production pressure**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+.NET+Backend+Engineer;Microservices+Architect;Azure+Cloud+Engineer;Payroll+%2F+HR+Domain+Expert" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PriyanshuClone&theme=algolia&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img src="https://github.com/PriyanshuClone/PriyanshuClone/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+## 🏗️ System Design Thinking
+
+I specialize in designing backend systems with:
+
+✔ Microservices with independent databases  
+✔ API Gateway using YARP  
+✔ Event-driven communication (Azure Service Bus)  
+✔ Multi-tenant SaaS architecture (schema-per-tenant)  
+✔ High-volume payroll processing systems  
+✔ Distributed transactions & eventual consistency  
+
+### My Design Principles:
+- Loose Coupling > Tight Integration  
+- Async Communication > Blocking Calls  
+- Idempotent APIs  
+- Observability First (Logging + Monitoring)  
+- Fail-safe systems (Retry, Dead-letter queues)
+
+## 📐 Reference Architecture
+## 💥 Impact Created
+- Processed **100K+ payroll records efficiently**
+- Designed **multi-tenant SaaS backend architecture**
+- Reduced API response time by **X% (add real number)**
+- Built **scalable microservices deployed on Azure**
+- Handled **production-critical issues under pressure**
+
+## 🚧 Currently Building
+
+- Scalable Microservices on Azure Container Apps
+- Event-driven payroll system using Service Bus
+- Advanced system design patterns for SaaS
+
+## 📚 Learning & Exploring
+
+- Distributed System Design
+- Event Sourcing & CQRS
+- High-scale system architecture
+- Kubernetes (next step after Azure Containers)
