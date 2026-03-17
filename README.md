@@ -183,24 +183,4 @@ I specialize in designing backend systems with:
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuClone&layout=compact&theme=radical&hide_border=false&border_radius=12" />
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PriyanshuClone&show_icons=true&theme=radical&hide_border=false&border_radius=14" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=PriyanshuClone&theme=radical&hide_border=false&border_radius=14" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuClone&layout=compact&theme=radical&hide_border=false&border_radius=14" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PriyanshuClone&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=PriyanshuClone&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuClone&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
