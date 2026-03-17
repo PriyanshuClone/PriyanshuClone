@@ -131,11 +131,6 @@ Production Issue Resolution
 [![trophy](https://github-profile-trophy.vercel.app/?username=PriyanshuClone&theme=algolia&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PriyanshuClone/PriyanshuClone/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 ## 🏗️ System Design Thinking
 
 I specialize in designing backend systems with:
