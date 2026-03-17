@@ -1,4 +1,4 @@
-## 💫 About Me👋
+## 💫 About Me
 
 <!--
 **PriyanshuClone/PriyanshuClone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,10 +22,10 @@ Here are some ideas to get you started:
   <a href="mailto:sengarsingh101@gmail.com">
     <img src="https://img.shields.io/badge/Email-sengarsingh101%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/PriyanshuSengar369">
-    <img src="https://img.shields.io/badge/GitHub-PriyanshuSengar369-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/PriyanshuClone">
+    <img src="https://img.shields.io/badge/GitHub-PriyanshuClone-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/priyanshu-sengar">
     <img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Singh-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
